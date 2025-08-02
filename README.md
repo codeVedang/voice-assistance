@@ -4,7 +4,7 @@ This is a Next.js application built for an internship assignment. It functions a
 
 ## Live Demo & Video
 
-* **Vercel Link:** [][(https://voice-assistance-vedang.vercel.app/)]
+* **Vercel Link:** ()[https://voice-assistance-vedang.vercel.app/]
 * **Demo Video:** [](https://drive.google.com/file/d/1nCV3J1LV8LNrmR9B3ORAAQbl8ivPmSOv/view?usp=sharing)
 
 ## Core Features
